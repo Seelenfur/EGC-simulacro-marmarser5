@@ -27,6 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+UVUS = 'marmarser5'
+
 
 # Application definition
 
